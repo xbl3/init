@@ -35,3 +35,5 @@ In your browser, enter one of these URLs:
 
 
 
+## Spotify
+- playlist.new
