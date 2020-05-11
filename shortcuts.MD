@@ -24,10 +24,9 @@ form.new
 A blank file opens, and you can start editing right away.
 
 # Diagrams.net
+  [Draw.io]  
 
-[Draw.io]
-diagram.new
-      
+diagram.new  
 diagrams.new
 
 # Git {brain fart}
