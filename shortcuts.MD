@@ -1,37 +1,37 @@
 
-### .NEW TLD
+# .NEW TLD
 
 ## Google
 
 Open a new Google file in your browser" "
 In your browser, enter one of these URLs:
 
-# Docs
+### Docs
 - docs.new
 - doc.new
 - document.new
 
-# Sheets
+### Sheets
 - sheets.new
 - sheet.new
 - spreadsheet.new
 
-# Slides
+### Slides
 - slides.new
 - slide.new
 - presentation.new
 
-# Forms
+### Forms
 - forms.new
 - form.new
 
-## Diagrams.net
-# [Draw.io]  
+### Diagrams.net
+## [Draw.io]  
 
 - diagram.new  
 - diagrams.new
 
-# Git {brain fart}
+## Git {brain fart}
 
 
 
